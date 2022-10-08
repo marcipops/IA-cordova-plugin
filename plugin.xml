@@ -6,8 +6,8 @@
   <name>IndoorAtlas</name>
   <description>IndoorAtlas Cordova Plugin.</description>
   <engines>
-    <engine name="cordova" version=">=11.0.0"/>
-    <engine name="cordova-android" version=">=11.0.0"/>
+    <engine name="cordova" version=">=9.0.0"/>
+    <engine name="cordova-android" version=">=6.0.0"/>
     <engine name="cordova-ios" version=">=6.2.0"/>
   </engines>
 
